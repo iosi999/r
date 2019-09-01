@@ -6,7 +6,7 @@ public class Main extends Clon {
 int ууу=332323;
         int gbgbg;
         printco(m);
-
+        System.out.println(x);
     }
 
 }
