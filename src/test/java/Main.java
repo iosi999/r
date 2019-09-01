@@ -3,9 +3,10 @@ public class Main extends Clon {
         String m = "ffff";
         String mmm="vdfvdv";
         int x=5;
-              int ee=55;
+int ууу=332323;
+        int gbgbg;
         printco(m);
-        
+
     }
 
 }
