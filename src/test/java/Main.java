@@ -5,8 +5,8 @@ String m="маамама";
        int ккк=4;
                int f=5;
         int bb=6;
-
-        int sss=44;
+int ууу=44;
+                int big=5;        int sss=44;
         System.out.println(sss);
     }
 
